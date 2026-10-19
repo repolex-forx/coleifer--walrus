@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/walrus/commit/a1e3b2d103ee1fa6a0e960eaaf204e2139017e8c",
       "git:hexsha": "a1e3b2d103ee1fa6a0e960eaaf204e2139017e8c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/walrus/commit/1e06377b5fb6d684af76793cd2d06e5e38996629",
